@@ -71,27 +71,17 @@ vless://3d0ab705-7743-4c0c-aa84-11acb06dbdc3@104.17.32.0:8880?encryption=none&se
 vless://3d0ab705-7743-4c0c-aa84-11acb06dbdc3@104.18.128.0:8880?encryption=none&security=none&type=ws&host=silent-wood-635d.cjxnxp.workers.dev&path=%2F%3Fed%3D2560#%E6%89%8B%E5%8A%A8%E4%BC%98%E9%80%89-56
 vless://3d0ab705-7743-4c0c-aa84-11acb06dbdc3@104.16.64.0:8880?encryption=none&security=none&type=ws&host=silent-wood-635d.cjxnxp.workers.dev&path=%2F%3Fed%3D2560#%E6%89%8B%E5%8A%A8%E4%BC%98%E9%80%89-57
 vless://3d0ab705-7743-4c0c-aa84-11acb06dbdc3@104.18.192.0:8880?encryption=none&security=none&type=ws&host=silent-wood-635d.cjxnxp.workers.dev&path=%2F%3Fed%3D2560#%E6%89%8B%E5%8A%A8%E4%BC%98%E9%80%89-58
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@vpslook.com:443?encryption=none&security=tls&sni=bpb.custom-sir.eu.org&type=ws&host=bpb.custom-sir.eu.org&path=%3Fed%3D2560#bpb.custom-sir.eu.org
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.shopify.com:443?encryption=none&security=tls&sni=bbps.yhealths.com&type=ws&host=bbps.yhealths.com&path=%3Fed%3D2560#bbps.yhealths.com
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@vpslook.com:443?encryption=none&security=tls&sni=mianban.918518.xyz&type=ws&host=mianban.918518.xyz&path=%3Fed%3D2560#mianban.918518.xyz
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@vpslook.com:443?encryption=none&security=tls&sni=cs.jx2top.filegear-sg.me&type=ws&host=cs.jx2top.filegear-sg.me&path=%3Fed%3D2560#cs.jx2top.filegear-sg.me
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@vpslook.com:443?encryption=none&security=tls&sni=bpb.gjz518.top&type=ws&host=bpb.gjz518.top&path=%3Fed%3D2560#bpb.gjz518.top
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@vpslook.com:443?encryption=none&security=tls&sni=eagmin.com&type=ws&host=eagmin.com&path=%3Fed%3D2560#eagmin.com
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@vpslook.com:443?encryption=none&security=tls&sni=cf.koljs.asia&type=ws&host=cf.koljs.asia&path=%3Fed%3D2560#cf.koljs.asia
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@vpslook.com:443?encryption=none&security=tls&sni=bpb.ucvape.cc&type=ws&host=bpb.ucvape.cc&path=%3Fed%3D2560#bpb.ucvape.cc
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@vpslook.com:443?encryption=none&security=tls&sni=bbps.yhealths.com&type=ws&host=bbps.yhealths.com&path=%3Fed%3D2560#bbps.yhealths.com
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@vpslook.com:443?encryption=none&security=tls&sni=bpb0713.515434.xyz&type=ws&host=bpb0713.515434.xyz&path=%3Fed%3D2560#bpb0713.515434.xyz
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.shopify.com:443?encryption=none&security=tls&sni=mianban.918518.xyz&type=ws&host=mianban.918518.xyz&path=%3Fed%3D2560#mianban.918518.xyz
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.shopify.com:443?encryption=none&security=tls&sni=cs.jx2top.filegear-sg.me&type=ws&host=cs.jx2top.filegear-sg.me&path=%3Fed%3D2560#cs.jx2top.filegear-sg.me
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.shopify.com:443?encryption=none&security=tls&sni=bpb.7571926.xyz&type=ws&host=bpb.7571926.xyz&path=%3Fed%3D2560#bpb.7571926.xyz
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?encryption=none&security=tls&sni=bpb.7571926.xyz&type=ws&host=bpb.7571926.xyz&path=%3Fed%3D2560#bpb.7571926.xyz
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.shopify.com:443?encryption=none&security=tls&sni=xizi-bo8.pages.dev&type=ws&host=xizi-bo8.pages.dev&path=%3Fed%3D2560#Axizi-bo8.pages.dev
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.shopify.com:443?encryption=none&security=tls&sni=worker-5n2.pages.dev&type=ws&host=worker-5n2.pages.dev&path=%3Fed%3D2560#worker-5n2.pages.dev
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.shopify.com:443?encryption=none&security=tls&sni=saiwai6.pages.dev&type=ws&host=saiwai6.pages.dev&path=%3Fed%3D2560#saiwai6.pages.dev
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?encryption=none&security=tls&sni=cS.Jx2top.FIlEGeaR-sG.Me&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=cS.jx2toP.fileGEar-sg.mE&path=%2FM1Q9iQInjFesV1FF%3Fed%3D2560#%F0%9F%92%A6%20BPB%20-%20www.speedtest.net
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.25.125.229:443?encryption=none&security=tls&sni=cs.jx2TOp.FIlegeAR-sg.ME&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=Cs.jX2ToP.fIlEGeaR-sG.ME&path=%2FEp3Yqz31IgOc9C71%3Fed%3D2560#%F0%9F%92%A6%20BPB%20-%20104.25.125.229
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.212.130:443?encryption=none&security=tls&sni=CS.jX2TOp.fiLEGEAR-Sg.ME&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=cs.JX2toP.FilEgEaR-SG.mE&path=%2F1U2sBOiQ7gjIUj0N%3Fed%3D2560#%F0%9F%92%A6%20BPB%20-%20172.67.212.130
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.93.168:443?encryption=none&security=tls&sni=Cs.Jx2top.fIleGeaR-Sg.Me&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=cS.jX2Top.FIlEGeAR-SG.Me&path=%2FxgVF7xVQGogFMSOR%3Fed%3D2560#%F0%9F%92%A6%20BPB%20-%20104.21.93.168
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.shopify.com:443?encryption=none&security=tls&sni=mianban.918518.xyz&type=ws&host=mianban.918518.xyz&path=%3Fed%3D2560#mianban.918518.xyz
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@vpslook.com:443?encryption=none&security=tls&sni=bpb.gjz518.top&type=ws&host=bpb.gjz518.top&path=%3Fed%3D2560#bpb.gjz518.top
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@vpslook.com:443?encryption=none&security=tls&sni=bpb0713.515434.xyz&type=ws&host=bpb0713.515434.xyz&path=%3Fed%3D2560#bpb0713.515434.xyz
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@vpslook.com:443?encryption=none&security=tls&sni=bpb.ucvape.cc&type=ws&host=bpb.ucvape.cc&path=%3Fed%3D2560#bpb.ucvape.cc
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@vpslook.com:443?encryption=none&security=tls&sni=eagmin.com&type=ws&host=eagmin.com&path=%3Fed%3D2560#eagmin.com
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@vpslook.com:443?encryption=none&security=tls&sni=bpb.custom-sir.eu.org&type=ws&host=bpb.custom-sir.eu.org&path=%3Fed%3D2560#bpb.custom-sir.eu.org
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@vpslook.com:443?encryption=none&security=tls&sni=cf.koljs.asia&type=ws&host=cf.koljs.asia&path=%3Fed%3D2560#cf.koljs.asia
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.shopify.com:443?encryption=none&security=tls&sni=bpb.7571926.xyz&type=ws&host=bpb.7571926.xyz&path=%3Fed%3D2560#bpb.7571926.xyz
+
 # https://eagmin.com/sub/89b3cbba-e6ac-485a-9481-976a0415eab9
 # https://bpb.gjz518.top/sub/89b3cbba-e6ac-485a-9481-976a0415eab9
 # https://cf.koljs.asia/sub/89b3cbba-e6ac-485a-9481-976a0415eab9
@@ -912,6 +902,7 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 	}
 
 }
+
 
 
 
