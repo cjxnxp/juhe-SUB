@@ -72,6 +72,12 @@ vless://752ab306-baac-4359-b588-b2a5c9a1e373@104.18.128.0:443?encryption=none&se
 vless://752ab306-baac-4359-b588-b2a5c9a1e373@104.16.64.0:443?encryption=none&security=none&type=ws&host=silent-wood-635d.cjxnxp.workers.dev&path=%2F%3Fed%3D2560#%E6%89%8B%E5%8A%A8%E4%BC%98%E9%80%89-57
 vless://752ab306-baac-4359-b588-b2a5c9a1e373@104.18.192.0:443?encryption=none&security=none&type=ws&host=silent-wood-635d.cjxnxp.workers.dev&path=%2F%3Fed%3D2560#%E6%89%8B%E5%8A%A8%E4%BC%98%E9%80%89-58
 
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.shopify.com:443?encryption=none&security=tls&sni=bpb.7571926.xyz&type=ws&host=bpb.7571926.xyz&path=%3Fed%3D2560#bpb.7571926.xyz
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.shopify.com:443?encryption=none&security=tls&sni=mianban.918518.xyz&type=ws&host=mianban.918518.xyz&path=%3Fed%3D2560#mianban.918518.xyz
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@vpslook.com:443?encryption=none&security=tls&sni=bpb.ucvape.cc&type=ws&host=bpb.ucvape.cc&path=%3Fed%3D2560#bpb.ucvape.cc
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@vpslook.com:443?encryption=none&security=tls&sni=eagmin.com&type=ws&host=eagmin.com&path=%3Fed%3D2560#eagmin.com
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@vpslook.com:443?encryption=none&security=tls&sni=cf.koljs.asia&type=ws&host=cf.koljs.asia&path=%3Fed%3D2560#cf.koljs.asia
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@vpslook.com:443?encryption=none&security=tls&sni=bpb0713.515434.xyz&type=ws&host=bpb0713.515434.xyz&path=%3Fed%3D2560#bpb0713.515434.xyz
 
 `;
 
@@ -886,5 +892,6 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 	}
 
 }
+
 
 
