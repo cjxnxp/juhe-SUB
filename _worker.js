@@ -303,14 +303,6 @@ vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@free.mediafairy.web.id:443?encrypti
 vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@free.mediafairy.web.id:443?encryption=none&security=tls&sni=free.mediafairy.web.id&type=ws&host=free.mediafairy.web.id&path=%2F109.61.109.42-443#JP%2BSecurebit%20AG
 
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.shopify.com:443?encryption=none&security=tls&sni=saiwai6.pages.dev&type=ws&host=saiwai6.pages.dev&path=%3Fed%3D2560#saiwai6.pages.dev
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.shopify.com:443?encryption=none&security=tls&sni=mianban.918518.xyz&type=ws&host=mianban.918518.xyz&path=%3Fed%3D2560#mianban.918518.xyz
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.shopify.com:443?encryption=none&security=tls&sni=bpb.7571926.xyz&type=ws&host=bpb.7571926.xyz&path=%3Fed%3D2560#bpb.7571926.xyz
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@vpslook.com:443?encryption=none&security=tls&sni=bpb.ucvape.cc&type=ws&host=bpb.ucvape.cc&path=%3Fed%3D2560#bpb.ucvape.cc
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@vpslook.com:443?encryption=none&security=tls&sni=cf.koljs.asia&type=ws&host=cf.koljs.asia&path=%3Fed%3D2560#cf.koljs.asia
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@vpslook.com:443?encryption=none&security=tls&sni=bpb0713.515434.xyz&type=ws&host=bpb0713.515434.xyz&path=%3Fed%3D2560#bpb0713.515434.xyz
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@vpslook.com:443?encryption=none&security=tls&sni=eagmin.com&type=ws&host=eagmin.com&path=%3Fed%3D2560#eagmin.com
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@vpslook.com:443?encryption=none&security=tls&sni=alick2011.eu.org&type=ws&host=alick2011.eu.org&path=%3Fed%3D2560#alick2011.eu.org
 `;
 
 let urls = [];
@@ -1124,6 +1116,7 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 	}
 
 }
+
 
 
 
