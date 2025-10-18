@@ -28,7 +28,7 @@ vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@free.mediafairy.web.id:443?encrypti
 vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@free.mediafairy.web.id:443?encryption=none&security=tls&sni=free.mediafairy.web.id&type=ws&host=free.mediafairy.web.id&path=%2F123.253.111.136-443#TW%2BTokyo
 vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@free.mediafairy.web.id:443?encryption=none&security=tls&sni=free.mediafairy.web.id&type=ws&host=free.mediafairy.web.id&path=%2F60.249.114.181-12281#TW%2BChunghwa%20Telecom%20CoLtd
 ## Create VPN  香港
-vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@free.mediafairy.web.id:443?encryption=none&security=tls&sni=free.mediafairy.web.id&type=ws&host=free.mediafairy.web.id&path=%2F156.254.114.171-443#HK%2BStepGo%20Limited
+vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@free.mediafairy.web.id:443?encryption=none&type=ws&host=free.mediafairy.web.id&path=/18.162.156.23-12355&security=tls&sni=free.mediafairy.web.id#HK+Amazon Data Services Hong Kong
 vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@free.mediafairy.web.id:443?encryption=none&security=tls&sni=free.mediafairy.web.id&type=ws&host=free.mediafairy.web.id&path=%2F101.79.165.113-443#HK%2BCDNetworks
 vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@free.mediafairy.web.id:443?encryption=none&security=tls&sni=free.mediafairy.web.id&type=ws&host=free.mediafairy.web.id&path=%2F219.76.13.166-443#HK%2BHong%20Kong%20Telecommunications%20HKT%20Limited%20Mass%20Internet
 vless://eeeeeee3-eeee-4eee-aeee-eeeeeeeeeee5@free.mediafairy.web.id:443?encryption=none&security=tls&sni=free.mediafairy.web.id&type=ws&host=free.mediafairy.web.id&path=%2F221.125.10.8-57537#HK%2BHGC%20Global%20Communications%20Limited
@@ -1388,6 +1388,7 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 	}
 
 }
+
 
 
 
